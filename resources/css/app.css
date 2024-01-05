@@ -1,0 +1,29 @@
+/* resources/css/app.css */
+
+/* Estilo inicial de la aplicación */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.footer {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
